@@ -1,16 +1,25 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jithu</h1>
+<h3 align="center">Beginner Developer | Learning Bots & Python</h3>
 
-<!--
-**LELU-868/LELU-868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+to+my+GitHub+Profile;Learning+Coding+Everyday;Building+WhatsApp+Bots" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 I’m currently learning **Python**
+- 🤖 I love making **WhatsApp Bots**
+- 💻 Beginner in **Coding**
+- 🎯 Goal: Become a **Pro Developer**
+
+---
+
+### 🛠 Skills
+- Python
+- GitHub
+- Bots
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
