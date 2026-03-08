@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Jithu</h1>
+<h1 align="center">Hi 👋, I'm LELU-XD</h1>
 <h3 align="center">Beginner Developer | Learning Bots & Python</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+to+my+GitHub+Profile;Learning+Coding+Everyday;Building+WhatsApp+Bots" />
